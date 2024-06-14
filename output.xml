@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0.1 (Python 3.12.4 on darwin)" generated="2024-06-14T16:00:32.603646" rpa="false" schemaversion="5">
+<suite id="s1" name="TC1" source="/Users/saijagathsunkari/PycharmProjects/Automation/TestCases/TC1.robot">
+<test id="s1-t1" name="LoginTest" line="10">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2024-06-14T16:00:32.691455" level="INFO">Opening browser 'firefox' to base url 'https://demo.nopcommerce.com'.</msg>
+<arg>https://demo.nopcommerce.com</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2024-06-14T16:00:32.691336" elapsed="2.715565"/>
+</kw>
+<kw name="Click Link" owner="SeleniumLibrary">
+<msg time="2024-06-14T16:00:35.409849" level="INFO">Clicking link 'xpath:/html/body/div[6]/div[1]/div[1]/div[2]/div[1]/ul/li[2]/a'.</msg>
+<arg>xpath:/html/body/div[6]/div[1]/div[1]/div[2]/div[1]/ul/li[2]/a</arg>
+<doc>Clicks a link identified by ``locator``.</doc>
+<status status="PASS" start="2024-06-14T16:00:35.408510" elapsed="0.449359"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-06-14T16:00:35.858219" level="INFO">Typing text 'dylancox0989@gmail.com' into text field 'id:Email'.</msg>
+<arg>id:Email</arg>
+<arg>dylancox0989@gmail.com</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-06-14T16:00:35.858067" elapsed="0.018693"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-06-14T16:00:35.877039" level="INFO">Typing text 'Jagath@12345' into text field 'id:Password'.</msg>
+<arg>id:Password</arg>
+<arg>Jagath@12345</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-06-14T16:00:35.876915" elapsed="0.029867"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2024-06-14T16:00:35.907320" level="INFO">Clicking element 'xpath://*[@id="main"]/div/div/div/div[2]/div[1]/div[2]/form/div[3]/button'.</msg>
+<arg>xpath://*[@id="main"]/div/div/div/div[2]/div[1]/div[2]/form/div[3]/button</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2024-06-14T16:00:35.906973" elapsed="0.190250"/>
+</kw>
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2024-06-14T16:00:36.097400" elapsed="0.529203"/>
+</kw>
+<status status="PASS" start="2024-06-14T16:00:32.690932" elapsed="3.935855"/>
+</test>
+<status status="PASS" start="2024-06-14T16:00:32.604562" elapsed="4.022492"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="TC1">TC1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

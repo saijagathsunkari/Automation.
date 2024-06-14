@@ -1,0 +1,28 @@
+1718391645813	geckodriver	INFO	Listening on 127.0.0.1:59373
+1718391645831	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/Use ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fksq_2p51zn0pmfdrbk8q2zw0000gn/T/rust_mozprofileHDvS81"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718391646133	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1718391646328	Marionette	INFO	Listening on port 59379
+WebDriver BiDi listening on ws://127.0.0.1:59374
+Read port: 59379
+1718391646441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:59374/devtools/browser/0ccf67ab-ce0f-4bc3-bc22-8b72fd5a659e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.nopcommerce.com."
+1718391648498	Marionette	INFO	Stopped listening on port 59379
+JavaScript warning: https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0, line 2: Script terminated by timeout at:
+@https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:2688
+@https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:220
+@https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:225
+
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 5: TypeError: AjaxCart is undefined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 57: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 2: ReferenceError: $ is not defined

@@ -1,0 +1,39 @@
+1718395232735	geckodriver	INFO	Listening on 127.0.0.1:59748
+1718395232749	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/Use ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fksq_2p51zn0pmfdrbk8q2zw0000gn/T/rust_mozprofilecI9xVM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718395233370	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1718395233618	Marionette	INFO	Listening on port 59754
+WebDriver BiDi listening on ws://127.0.0.1:59749
+Read port: 59754
+1718395233717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:59749/devtools/browser/312ead6d-cea9-4593-a60c-e07ad71dda01
+JavaScript error: https://demo.nopcommerce.com/Plugins/Widgets.NivoSlider/Scripts/jquery.nivo.slider.js?v=2zrdcEASzxCV351S7RU4ZQt8wRA, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: AjaxCart is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.nopcommerce.com."
+1718395236100	Marionette	INFO	Stopped listening on port 59754
+JavaScript warning: https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0, line 2: Script terminated by timeout at:
+@https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:2688
+@https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:220
+@https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:225
+
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 5: TypeError: AjaxCart is undefined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 57: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2F line 1 > injectedScript, line 2: ReferenceError: $ is not defined
